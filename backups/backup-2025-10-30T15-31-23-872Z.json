@@ -1,0 +1,463 @@
+{
+  "timestamp": "2025-10-30T15:31:22.377Z",
+  "version": "1.0",
+  "data": {
+    "users": [
+      {
+        "id": "cmhc9rhv50000emip2xbd7n1e",
+        "email": "tugba@bayabireklam.com",
+        "password": "$2b$12$cpmOdj0qA6eXKSYTjKXodebqVguTjaDaekML6VkcH5EBuVRkj09YO",
+        "firstName": "Tuğba",
+        "lastName": "Designer",
+        "phone": null,
+        "avatar": null,
+        "pushSubscription": null,
+        "role": "DESIGNER",
+        "isActive": true,
+        "lastLoginAt": null,
+        "createdAt": "2025-10-29T17:28:23.346Z",
+        "updatedAt": "2025-10-29T17:28:23.346Z"
+      },
+      {
+        "id": "cmhc9ribu0001emiphdmy4c60",
+        "email": "kazimcan@bayabireklam.com",
+        "password": "$2b$12$ziu7Q5vMyAA3D9jKQkE3S./APKxeA6zqa5ck/DgqOKZp4RYaDSRIC",
+        "firstName": "Kazım Can",
+        "lastName": "Developer",
+        "phone": null,
+        "avatar": null,
+        "pushSubscription": null,
+        "role": "ADMIN",
+        "isActive": true,
+        "lastLoginAt": null,
+        "createdAt": "2025-10-29T17:28:23.346Z",
+        "updatedAt": "2025-10-29T17:28:23.346Z"
+      },
+      {
+        "id": "cmhc9ricq0002emipajja042w",
+        "email": "ufuk@bayabireklam.com",
+        "password": "$2b$12$weumfQGpLK7ySJ3mXhTaDeew4diFMyiYvBWvsWNg/qtniXAhJrz4K",
+        "firstName": "Ufuk",
+        "lastName": "Video",
+        "phone": null,
+        "avatar": null,
+        "pushSubscription": null,
+        "role": "VIDEO_EDITOR",
+        "isActive": true,
+        "lastLoginAt": null,
+        "createdAt": "2025-10-29T17:28:23.346Z",
+        "updatedAt": "2025-10-29T17:28:23.346Z"
+      },
+      {
+        "id": "cmhc9riwh0003emiplvvz7agx",
+        "email": "creator@bayabireklam.com",
+        "password": "$2b$12$/TKLDCs4WU.KxdKEBhJicuEfQ0vtIvg6AQth71gdAu3EJwiutw/5a",
+        "firstName": "Creator",
+        "lastName": "Admin",
+        "phone": null,
+        "avatar": null,
+        "pushSubscription": null,
+        "role": "ADMIN",
+        "isActive": true,
+        "lastLoginAt": "2025-10-30T15:30:36.083Z",
+        "createdAt": "2025-10-29T17:28:23.346Z",
+        "updatedAt": "2025-10-30T15:30:36.084Z"
+      }
+    ],
+    "companies": [
+      {
+        "id": "cmhc9rj5s0007emipsad898gn",
+        "name": "Çiğdemle Fit",
+        "email": "info@cigdemlefit.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rj5s0006emipr2rasvvr",
+        "name": "Aytuğ Auto",
+        "email": "info@aytugauto.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rj5s0004emipk2c9uxhx",
+        "name": "Baya'bi Reklam",
+        "email": "info@bayabireklam.com",
+        "phone": "+90 555 000 0000",
+        "address": "Kayseri, Türkiye",
+        "taxNumber": null,
+        "contactPerson": "Admin",
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rj5s0005emipsmcs45jy",
+        "name": "Velux Auto",
+        "email": "info@veluxauto.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rjms0009emipg9ofo364",
+        "name": "Bekiş Sürücü Kursu",
+        "email": "info@bekissurucukursu.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rjmt000bemipnmmt106a",
+        "name": "Microchem Maden",
+        "email": "info@microchemmaden.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rjmt000demip8g1s5dg7",
+        "name": "Güneş İnşaat",
+        "email": "info@gunesinsaat.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rjms0008emiprz12b0nh",
+        "name": "MBK Dil Akademisi",
+        "email": "info@mbkdilakademisi.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.025Z",
+        "updatedAt": "2025-10-29T17:28:25.025Z"
+      },
+      {
+        "id": "cmhc9rjms000aemip9b425bbz",
+        "name": "Hasır Pastaneleri",
+        "email": "info@hasirpastaneleri.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rjmt000cemip79xer1za",
+        "name": "Best French",
+        "email": "info@bestfrench.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.025Z",
+        "updatedAt": "2025-10-29T17:28:25.025Z"
+      },
+      {
+        "id": "cmhc9rjpw000eemipnyson5ub",
+        "name": "İstikbal İlhan Mobilya",
+        "email": "info@istikbalilhan.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.025Z",
+        "updatedAt": "2025-10-29T17:28:25.025Z"
+      },
+      {
+        "id": "cmhc9rjq8000gemipaeoizrcg",
+        "name": "Doğan Uçar Özel Öğretim Kursu",
+        "email": "info@doganucar.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.024Z",
+        "updatedAt": "2025-10-29T17:28:25.024Z"
+      },
+      {
+        "id": "cmhc9rjq8000femip3xre8jlm",
+        "name": "Birikim Biricik Anaokulu",
+        "email": "info@birikimbiricik.com",
+        "phone": null,
+        "address": null,
+        "taxNumber": null,
+        "contactPerson": null,
+        "createdAt": "2025-10-29T17:28:25.025Z",
+        "updatedAt": "2025-10-29T17:28:25.025Z"
+      }
+    ],
+    "packages": [
+      {
+        "id": "cmhc9rjvg000kemipliabzlox",
+        "name": "Premium Paket",
+        "description": "Aylık Abonelik Fiyatı - En kapsamlı hizmet",
+        "price": "22000",
+        "duration": 30,
+        "services": [
+          "Profesyonel kamera ekipmanları",
+          "Profesyonel ışık setleri",
+          "Uzman prodüksiyon ekibi",
+          "4 Reels + 4 Tasarım",
+          "Özel gün tasarımları",
+          "Meta reklam yönetimi",
+          "7/24 destek",
+          "En İyi İçerik Garantisi",
+          "Detaylı analiz raporları"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:25.949Z",
+        "updatedAt": "2025-10-29T17:28:25.949Z"
+      },
+      {
+        "id": "cmhc9rjvg000jemipun5xf7ud",
+        "name": "Standart Paket",
+        "description": "Aylık Abonelik Fiyatı - Aylık 4 Reels + 4 Tasarım",
+        "price": "12000",
+        "duration": 30,
+        "services": [
+          "Aylık 4 Reels",
+          "4 Tasarım",
+          "Özel gün tasarımları",
+          "Meta reklam yönetimi",
+          "Sosyal medya stratejisi"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:25.949Z",
+        "updatedAt": "2025-10-29T17:28:25.949Z"
+      },
+      {
+        "id": "cmhc9rjvg000iemipch7wtqn2",
+        "name": "Tasarım Paketi",
+        "description": "Aylık Abonelik Fiyatı - Aylık 8 adet tasarım",
+        "price": "12000",
+        "duration": 30,
+        "services": [
+          "Aylık 8 adet tasarım",
+          "Özel gün tasarımları",
+          "Meta reklam yönetimi",
+          "Fotoğraf çekimi",
+          "Sosyal medya stratejisi"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:25.949Z",
+        "updatedAt": "2025-10-29T17:28:25.949Z"
+      },
+      {
+        "id": "cmhc9rjvg000hemipxz8aihsm",
+        "name": "VİP Paket",
+        "description": "Aylık Abonelik Fiyatı - Profesyonel ekipmanlar ile",
+        "price": "18000",
+        "duration": 30,
+        "services": [
+          "Profesyonel kamera ekipmanları",
+          "Profesyonel ışık setleri",
+          "4 Reels + 4 Tasarım",
+          "Özel gün tasarımları",
+          "Meta reklam yönetimi",
+          "7/24 destek",
+          "En İyi İçerik Garantisi"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:25.949Z",
+        "updatedAt": "2025-10-29T17:28:25.949Z"
+      },
+      {
+        "id": "cmhc9rk1g000lemipsccgmymi",
+        "name": "PHP Özel Tasarım",
+        "description": "PHP tabanlı özel tasarım + yönetim paneli",
+        "price": "30000",
+        "duration": 0,
+        "services": [
+          "PHP tabanlı özel tasarım",
+          "Özel yönetim paneli",
+          "Çoklu sayfa yapısı",
+          "Responsive tasarım",
+          "İçerik yönetim sistemi",
+          "Blog sistemi",
+          "SEO optimizasyonu",
+          "İletişim formu",
+          "Google Analytics entegrasyonu",
+          "1 yıl hosting ve domain",
+          "3 ay ücretsiz bakım"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.164Z",
+        "updatedAt": "2025-10-29T17:28:26.164Z"
+      },
+      {
+        "id": "cmhc9rk1g000oemipvjm3ir0m",
+        "name": "Premium Özel Tasarım",
+        "description": "React + Next.js tabanlı premium web sitesi",
+        "price": "35000",
+        "duration": 0,
+        "services": [
+          "React + Next.js tabanlı tasarım",
+          "Premium özel tasarım",
+          "Çoklu sayfa yapısı",
+          "Responsive tasarım",
+          "Gelişmiş animasyonlar",
+          "SEO optimizasyonu",
+          "Blog sistemi",
+          "İletişim formu",
+          "Google Analytics entegrasyonu",
+          "Performans optimizasyonu",
+          "1 yıl hosting ve domain",
+          "6 ay ücretsiz bakım"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.164Z",
+        "updatedAt": "2025-10-29T17:28:26.164Z"
+      },
+      {
+        "id": "cmhc9rk1g000memiphju90od5",
+        "name": "WordPress Web Sitesi",
+        "description": "Profesyonel WordPress tabanlı kurumsal web sitesi",
+        "price": "20000",
+        "duration": 0,
+        "services": [
+          "WordPress tabanlı web sitesi",
+          "Responsive tasarım",
+          "SEO optimizasyonu",
+          "İçerik yönetim sistemi",
+          "5 sayfa içerik",
+          "İletişim formu",
+          "Google Analytics entegrasyonu",
+          "1 yıl hosting ve domain",
+          "1 ay ücretsiz bakım"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.164Z",
+        "updatedAt": "2025-10-29T17:28:26.164Z"
+      },
+      {
+        "id": "cmhc9rk1g000nemiplsi3wwy9",
+        "name": "OnePage Özel Tasarım",
+        "description": "React tabanlı tek sayfa özel tasarım web sitesi",
+        "price": "25000",
+        "duration": 0,
+        "services": [
+          "React tabanlı özel tasarım",
+          "Tek sayfa (OnePage) yapısı",
+          "Modern ve şık tasarım",
+          "Responsive tasarım",
+          "Animasyonlu geçişler",
+          "SEO optimizasyonu",
+          "İletişim formu",
+          "Google Analytics entegrasyonu",
+          "1 yıl hosting ve domain",
+          "2 ay ücretsiz bakım"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.164Z",
+        "updatedAt": "2025-10-29T17:28:26.164Z"
+      },
+      {
+        "id": "cmhc9rk3y000pemip7pf89ioa",
+        "name": "Drone Tanıtım Filmi",
+        "description": "Drone + video prodüksiyon",
+        "price": "25000",
+        "duration": 0,
+        "services": [
+          "Drone çekimi",
+          "Profesyonel kamera çekimi",
+          "Video prodüksiyon",
+          "Video edit ve montaj",
+          "Renk düzenleme",
+          "Gelişmiş animasyonlar",
+          "Drone görüntüleri",
+          "Müzik seçimi",
+          "2-3 dakika final video",
+          "3 revizyon hakkı",
+          "4K kalitede teslim"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.255Z",
+        "updatedAt": "2025-10-29T17:28:26.255Z"
+      },
+      {
+        "id": "cmhc9rk3y000remipxsjnetjm",
+        "name": "Temel Tanıtım Filmi",
+        "description": "Kamera çekimi + video prodüksiyon ve edit",
+        "price": "15000",
+        "duration": 0,
+        "services": [
+          "Profesyonel kamera çekimi",
+          "Video prodüksiyon",
+          "Video edit ve montaj",
+          "Renk düzenleme",
+          "Temel animasyonlar",
+          "Müzik seçimi",
+          "1-2 dakika final video",
+          "2 revizyon hakkı",
+          "HD kalitede teslim"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.255Z",
+        "updatedAt": "2025-10-29T17:28:26.255Z"
+      },
+      {
+        "id": "cmhc9rk3y000qemipby24dw1o",
+        "name": "Premium Tanıtım Filmi",
+        "description": "Drone + video prodüksiyon + seslendirme",
+        "price": "35000",
+        "duration": 0,
+        "services": [
+          "Drone çekimi",
+          "Profesyonel kamera çekimi",
+          "Video prodüksiyon",
+          "Video edit ve montaj",
+          "Renk düzenleme",
+          "Gelişmiş animasyonlar",
+          "Profesyonel seslendirme",
+          "Ses mühendisliği",
+          "Müzik kompozisyonu",
+          "Drone görüntüleri",
+          "3-5 dakika final video",
+          "5 revizyon hakkı",
+          "4K kalitede teslim",
+          "Sosyal medya versiyonları"
+        ],
+        "isActive": true,
+        "createdAt": "2025-10-29T17:28:26.255Z",
+        "updatedAt": "2025-10-29T17:28:26.255Z"
+      }
+    ],
+    "paymentPlans": [],
+    "payments": [],
+    "incomes": [],
+    "expenses": [],
+    "calendarEvents": [],
+    "sessions": [
+      {
+        "id": "cmhdkzv970001emii4wcnkz3x",
+        "userId": "cmhc9riwh0003emiplvvz7agx",
+        "token": "f9d709ec3d38c69fff0392a22d5b8c9291b21f6db5dacd0250dbb036ccbf18d4",
+        "expiresAt": "2025-10-30T15:45:35.898Z",
+        "createdAt": "2025-10-30T15:30:35.899Z"
+      }
+    ]
+  }
+}
